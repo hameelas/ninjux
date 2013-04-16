@@ -1,4 +1,4 @@
 ninjux
 ======
 
-Automated Judge core for programming contests
+Programming Problems manager for jux
